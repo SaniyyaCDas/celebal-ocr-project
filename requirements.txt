@@ -1,0 +1,6 @@
+azure-functions
+azure-ai-vision
+azure-storage-blob
+azure-core
+requests
+smtplib
