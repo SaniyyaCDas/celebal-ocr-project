@@ -82,7 +82,5 @@ To enable email notifications using Gmail SMTP:
 
 ---
 
-## Submission Guidelines
-- Do not include ZIP files
-- Maintain the directory structure shown above
-- Provide a clean and working repository with placeholder secrets
+## Notes
+This application is designed to work within a private network environment and assumes that blob containers and Azure credentials are pre-configured. All secrets are represented as placeholders and should be securely configured in your deployment environment.
