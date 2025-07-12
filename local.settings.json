@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your_connection_string_here>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "COMPUTER_VISION_ENDPOINT": "<your_computer_vision_endpoint>",
+    "COMPUTER_VISION_KEY": "<your_computer_vision_key>",
+    "OUTPUT_CONTAINER": "output-container",
+    "SENDGRID_FROM_EMAIL": "sender@example.com",
+    "SENDGRID_TO_EMAIL": "receiver@example.com",
+    "EMAIL_USER": "<your_email_username>",
+    "EMAIL_PASS": "<your_email_password>"
+  }
+}
